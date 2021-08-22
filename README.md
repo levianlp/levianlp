@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @levianlp
-- 👀 I’m interested artistic webflow
+- 👀 I’m interested artistic web design and animation
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
